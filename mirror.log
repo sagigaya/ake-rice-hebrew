@@ -1,0 +1,66 @@
+→ https://www.akericemill.com/en/
+  ✗ FAIL https://www.akericemill.com/templates/default/assets/img/logo-sm.png: HTTP Error 404: Not Found
+  ✓ saved index.html (81KB · imgs:66 css:11 js:26)
+→ https://www.akericemill.com/en/pages/17068-Overview
+  ✓ saved overview.html (37KB · imgs:13 css:11 js:26)
+→ https://www.akericemill.com/en/pages/17066-Our%20Product
+  ✓ saved products.html (40KB · imgs:15 css:11 js:26)
+→ https://www.akericemill.com/en/galleries
+  ✓ saved news-activity.html (35KB · imgs:12 css:11 js:26)
+→ https://www.akericemill.com/en/galleries/21814-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A1%E0%B8%B2
+  ✗ page fail: HTTP Error 404: Not Found
+→ https://www.akericemill.com/en/contact-us
+  ✓ saved contact.html (37KB · imgs:9 css:11 js:27)
+→ https://www.akericemill.com/en/pages/17072-Career
+  ✓ saved career.html (34KB · imgs:8 css:11 js:26)
+→ https://www.akericemill.com/en/products/351057
+  ✓ saved product-351057.html (49KB · imgs:12 css:11 js:29)
+→ https://www.akericemill.com/en/products/351123
+  ✓ saved product-351123.html (51KB · imgs:12 css:11 js:29)
+→ https://www.akericemill.com/en/products/351124
+  ✓ saved product-351124.html (49KB · imgs:13 css:11 js:29)
+→ https://www.akericemill.com/en/products/351126
+  ✓ saved product-351126.html (52KB · imgs:13 css:11 js:29)
+→ https://www.akericemill.com/en/products/351127
+  ✓ saved product-351127.html (48KB · imgs:12 css:11 js:29)
+→ https://www.akericemill.com/en/products/351128
+  ✓ saved product-351128.html (53KB · imgs:13 css:11 js:29)
+→ https://www.akericemill.com/en/products/351129
+  ✓ saved product-351129.html (50KB · imgs:12 css:11 js:29)
+→ https://www.akericemill.com/en/products/351130
+  ✓ saved product-351130.html (53KB · imgs:11 css:11 js:29)
+→ https://www.akericemill.com/en/products/351132
+  ✓ saved product-351132.html (51KB · imgs:13 css:11 js:29)
+→ https://www.akericemill.com/en/products/361542
+  ✓ saved product-361542.html (54KB · imgs:12 css:11 js:29)
+→ https://www.akericemill.com/en/galleries/37737
+  ✓ saved gallery-37737.html (36KB · imgs:16 css:12 js:32)
+→ https://www.akericemill.com/en/galleries/37739
+  ✓ saved gallery-37739.html (44KB · imgs:64 css:12 js:32)
+→ https://www.akericemill.com/en/galleries/85457
+  ✓ saved gallery-85457.html (38KB · imgs:28 css:12 js:32)
+→ https://www.akericemill.com/en/galleries/85459
+  ✓ saved gallery-85459.html (37KB · imgs:20 css:12 js:32)
+→ https://www.akericemill.com/en/articles/126930
+  ✓ saved article-126930.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126932
+  ✓ saved article-126932.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126936
+  ✓ saved article-126936.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126937
+  ✓ saved article-126937.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126938
+  ✓ saved article-126938.html (38KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126939
+  ✓ saved article-126939.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126940
+  ✓ saved article-126940.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126941
+  ✓ saved article-126941.html (37KB · imgs:8 css:11 js:27)
+→ https://www.akericemill.com/en/articles/126942
+  ✓ saved article-126942.html (37KB · imgs:8 css:11 js:27)
+
+Total assets downloaded: 260
+  Images: 208
+  CSS: 18
+  JS: 34
